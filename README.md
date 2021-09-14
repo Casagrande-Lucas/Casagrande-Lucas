@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Lucas Casagrande
+## What's up!! I'm Lucas Casagrande, known as Big House 🇧🇷
  <div>
   <a href="https://github.com/Casagrande-Lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Casagrande-Lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
