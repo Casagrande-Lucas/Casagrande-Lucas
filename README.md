@@ -4,6 +4,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Casagrande-Lucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casagrande-Lucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ ## About Me
+ 
+- 👨‍💻 Technical Support Analyst / Software Developer.
+- 👨‍🎓 Software Engineering Student.
+- 🎯 I'm good at: Linux, Java, .NET, PHP, MySQL, Docker.
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Casagrande-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Casagrande-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
