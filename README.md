@@ -17,7 +17,7 @@
  
  ## About Me
  
-- 👨‍💻 Technical Support Analyst / Software Developer.
+- 👨‍💻 Software Engineer.
 - 👨‍🎓 Software Engineering Student.
 - 🎯 I'm good at: Linux, Java, .NET, PHP, MySQL, Docker.
  
