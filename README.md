@@ -19,7 +19,7 @@
  
 - 👨‍💻 Software Engineer.
 - 👨‍🎓 Software Engineering Student.
-- 🎯 I'm good at: Linux, Java, .NET, PHP, MySQL, Docker.
+- 🎯 I'm good at: PHP, Linux, Java, .NET, UiPath, MySQL, Docker, Laravel, PhalconPHP, Python and Software Automation.
  
 <p align="center">
   <img align="center" alt="Casagrande-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
