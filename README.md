@@ -1,4 +1,4 @@
-# Bem-vindo ao meu GitHub sou Lucas Casagrande (BigHouse)
+# Bem-vindo ao meu GitHub sou Lucas Casagrande
 
 ## Sobre Mim
 
