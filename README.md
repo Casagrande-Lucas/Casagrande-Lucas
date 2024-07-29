@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-🎯 **Desenvolvedor com 9 anos de experiência** em APIs REST Full de alta performance, processos assíncronos, paralelos e concorrentes. Tenho vasta experiência com Go e Python, e um profundo conhecimento em OOP, Design Patterns, SOLID, TDD, e arquiteturas escaláveis.
+🎯 **Desenvolvedor com 9 anos de experiência** em APIs REST Full de alta performance, processos assíncronos, paralelos e concorrentes. Tenho vasta experiência com Go e Python, e um profundo conhecimento em OOP, Design Patterns, SOLID, TDD, arquiteturas escaláveis e micro serviços.
 
 🚀 **Especialista em projetos de grande escala**, já trabalhei com empresas que movimentam trilhões de dados e possuem faturamento anual superior a 1 bilhão. Sou apaixonado por otimização de processos e entrega de soluções de alta qualidade.
 
