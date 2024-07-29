@@ -22,6 +22,20 @@
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-5C2D91?style=for-the-badge&logo=tdd&logoColor=white)
 
+## Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casagrande-Lucas&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=151515" alt="Linguagens Mais Usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Casagrande-Lucas&show_icons=true&theme=radical&count_private=true&custom_title=Lucas%20Casagrande's%20GitHub%20Stats&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=151515" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Casagrande-Lucas&theme=radical&background=151515&ring=ff69b4&fire=ff69b4&currStreakLabel=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+</p>
+
 ## Projetos Destacados
 
 ### [Auditto](https://github.com/Casagrande-Lucas/#)
