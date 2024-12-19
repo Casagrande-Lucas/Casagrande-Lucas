@@ -45,7 +45,7 @@
 
 ### [EHTL API](https://github.com/Casagrande-Lucas/#)
 🔧 **Descrição:** API integrada com brokers de hotéis, utilizando Go para processar 7 mil opções de quartos em 0.3s.
-📌 **Funcionalidades:** Modularidade para adicionar novos brokers com apenas dois arquivos: configurações de API e imlpementação da classe que tem como typo a interface Broker.
+📌 **Funcionalidades:** Modularidade para adicionar novos brokers com apenas dois arquivos: configurações de API e imlpementação da classe que tem como tipo a interface Broker.
 
 ## Publicações e Artigos
 
